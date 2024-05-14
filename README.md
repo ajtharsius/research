@@ -1,6 +1,6 @@
 # research
 
-This repository contains posters, presentations, and papers related to research I worked on between 2016 and 2022. Specifically, I worked the following three projects.
+This repository contains posters, presentations, papers, and code related to research I worked on between 2016 and 2022. Specifically, I worked on the following four projects.
 
 * Evaluating Spending For Feeding America Partners (Oct. 2022 – Dec. 2022)
   * Advisor: Dr. Telesilla Kotsi
