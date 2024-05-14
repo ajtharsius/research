@@ -1,7 +1,13 @@
 # research
 
-This repository contains posters, presentations, and papers related to research I worked on between 2016 and 2019. Specifically, I worked the following three projects.
+This repository contains posters, presentations, and papers related to research I worked on between 2016 and 2022. Specifically, I worked the following three projects.
 
+* Evaluating Spending For Feeding America Partners (Oct. 2022 – Dec. 2022)
+  * Advisor: Dr. Telesilla Kotsi
+  *	Built a model to estimate the relationship between non-profit food bank spending relative to the total budget and marginal returns on fundraising.
+    * Related file: foodbanks_notebook_2022.html
+    * Related file: foodbanks_paper_2022.pdf
+    * Related file: foodbanks_slides_2022.pdf
 * Computation of Graph Minors (Jan. 2019 – Apr. 2019)
   * Advisor: Dr. Bogdan Oporowski
   *	Analyzed the complexity of computing graph minors and solving related graph theory problems
